@@ -1,4 +1,4 @@
-package com.spoj.lastdig;
+package com.shishir.lastdig;
 
 import java.util.*;
 public class Main {
